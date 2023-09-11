@@ -30,7 +30,7 @@ export default function Layout({children, pagina}) {
         <>
             <Head>
                 <title>Café - {pagina}</title>
-                <meta name="description" content="Quiosco Cafetería"/>
+                <meta name="description" content="Quiosco Cafetería" charSet="utf-8"/>
             </Head>
 
             <div className="md:flex">
